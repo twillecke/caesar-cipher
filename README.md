@@ -1,2 +1,2 @@
-# caesar-cipher
-Python caesar-cipher encoder
+# python-exercises
+This repository contains my daily python exercises.
